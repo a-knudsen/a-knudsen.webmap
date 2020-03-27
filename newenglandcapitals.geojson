@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-                    "marker-color": "#00ff50"},
+                    "marker-color": "#88ff40"}
+      "State" : "Maine", 
+      "Capital" : "Augusta"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -16,7 +18,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff7800"},
+        "marker-color": "#ff7800",
+        "State" : "New Hampshire", 
+      "Capital" : "Concord"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -27,7 +31,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "marker-color": "#60ff40"},
+      "properties": { "marker-color": "#60ff40",
+                     "State" : "Vermont", 
+      "Capital" : "Montpelier"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -38,7 +44,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "marker-color": "#ff7050"},
+      "properties": { "marker-color": "#ff7050",
+       "State" : "Massachusetts", 
+      "Capital" : "Boston"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49,7 +57,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "marker-color": "#3388ff"},
+      "properties": { "marker-color": "#3388ff",
+      "State" : "Connecticut", 
+      "Capital" : "Hartford"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -60,7 +70,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "marker-color": "#601030"},
+      "properties": { "marker-color": "#601030",
+       "State" : "Rhode Island", 
+      "Capital" : "Providence"},
       "geometry": {
         "type": "Point",
         "coordinates": [
