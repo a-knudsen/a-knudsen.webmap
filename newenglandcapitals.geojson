@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-                    "marker-color": "#88ff88",
+                    "marker-color": "#10ff88",
       "State" : "Maine", 
       "Capital" : "Augusta"},
       "geometry": {
