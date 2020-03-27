@@ -41,3 +41,19 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+#sticky side bar
+<!-- Default sidebar -->
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    ...
+  </div>
+</div>
+
+<!-- Modified sidebar -->
+<div class="sidebar">
+  <div class="container">
+    ...
+  </div>
+</div>
