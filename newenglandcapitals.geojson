@@ -3,7 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"color": "#00ff00"},
+      "properties": {
+                    "marker-color": "#00ff00"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +15,8 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff7800"},
       "geometry": {
         "type": "Point",
         "coordinates": [
