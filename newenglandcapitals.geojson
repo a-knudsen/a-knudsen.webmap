@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"color": "#ff7800"},
+      "properties": {"color": "#00ff00"},
       "geometry": {
         "type": "Point",
         "coordinates": [
