@@ -4,7 +4,6 @@
     {
       "type": "Feature",
       "properties": {"color": "#ff7800"},
-};
       "geometry": {
         "type": "Point",
         "coordinates": [
