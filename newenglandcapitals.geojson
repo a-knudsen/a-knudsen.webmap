@@ -3,11 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-      "color": "#ff7800",
-    "weight": 5,
-    "opacity": 0.65
-        },
+      "properties": {"color": "#ff7800"},
 };
       "geometry": {
         "type": "Point",
