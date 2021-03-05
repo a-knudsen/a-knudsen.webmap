@@ -1,4 +1,4 @@
 name: Ahna Knudsen
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: midnight
+theme: jekyll-theme-midnight
